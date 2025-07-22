@@ -15,7 +15,7 @@ The goal is to build accurate models, improve recall, and ensure model transpare
 
 ## 🗃️ Data & Preprocessing
 - **Stroke Data**: ~10,000 patient records from Kaggle
-- **SOC Data**: 1M+ incident records (source: arXiv:2407.09017)
+- **SOC Data**: 1M+ incident records.
 - **Preprocessing Steps**:
   - KNN imputation for missing values
   - SMOTE applied to balance 5% minority class
